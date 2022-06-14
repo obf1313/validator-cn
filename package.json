@@ -1,0 +1,11 @@
+{
+  "name": "validator-cn",
+  "version": "1.0.0",
+  "description": "validator for cn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "obf1313",
+  "license": "ISC"
+}
